@@ -20,7 +20,7 @@ jd {number}
 
 ## Set-up
 - replace filepaths throughout code to match your set-up preference.
-- touch `toDo.txt` and `toDosComplete.txt` files into matching filepath.
+- `touch` `toDo.txt` and `toDosComplete.txt` files into filepath from previous step.
 - manually populate `toDo.txt` with your to do tasks.
-- save the code below into your `~/.bash_profile`.
+- save the code in `jd1.0.sh` into your `~/.bash_profile`.
 - run `source ~/.bash_profile` from the terminal.
